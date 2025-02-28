@@ -1,9 +1,9 @@
 // Declare resources
 let resources = {
 	images: [
-    {id: "bk", src: "assets/introImages/introImg.jpg" },
-    {id: "logo", src: "assets/introImages/logoTitle.png" },
-    {id: "intro", src: "assets/introImages/text.png" }
+    {id: "bk", src: "introImages/introImg.jpg" },
+    {id: "logo", src: "introImages/logoTitle.png" },
+    {id: "intro", src: "introImages/text.png" }
 	],       
 	audios:[ 
 	{id:"mainTheme", src:"assets/audios/Fire Emblem (Main Theme).wav"}
